@@ -1,4 +1,4 @@
-HTML Resume Framework 
+HTML Resume Framework
 ---------------------
 
 **About this repo**
