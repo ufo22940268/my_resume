@@ -22,7 +22,7 @@ body {
     padding: 0;
     font-family: "Microsoft Yahei", "\5b8b\4f53", Arial, sans-serif;
     font-size: 16px;
-    line-height: 1.5;
+    line-height: 1.7;
     background: #e0e0e0;
 }
 
@@ -223,6 +223,9 @@ footer a {
     nav ul,
     section h2 ~ :not(img) {
         padding: 0 20px;
+    }
+    nav a {
+        font-size: 14px;
     }
     img {
         margin: 10px 40px 0 0;
