@@ -46,6 +46,7 @@ var Resume = function(window, document) {
                 scroll();
             }
         }, false);
+        nav.className = 'preparing';
         document.body.insertBefore(nav, document.querySelector('div'));
         window.addEventListener('resize', function() {
             document.body.className = window.innerWidth < 650 ? 'mobile' : 'desktop';
@@ -55,6 +56,7 @@ var Resume = function(window, document) {
                 window.location.hash = '#' + sect[0].id;
             }
             document.body.className = window.innerWidth < 650 ? 'mobile' : 'desktop';
+            nav.className = '';
         }, false);
     };
     
