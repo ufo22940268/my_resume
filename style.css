@@ -364,3 +364,6 @@ footer a {
         display: block;
     }
 }
+@page {
+    margin: 30mm 15mm;
+}
