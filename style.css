@@ -306,6 +306,9 @@ footer a {
     .mobile section:target h2 ~ :not(img) {
         display: block;
     }
+    .mobile section:target h2 ~ p.print {
+        display: none;
+    }
     p {
         margin: 20px 0;
     }
@@ -329,7 +332,7 @@ footer a {
         color: #000;
     }
     nav,
-    img    {
+    img {
         display: none;
     }
     section h2,
