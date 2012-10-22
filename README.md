@@ -1,14 +1,14 @@
-HTML Resume Framework
----------------------
+HTML Resume Template
+--------------------
 
 **About this repo**
 
-+ A simple HTML resume framework, well displayed on Smart Phones and PC under various resolutions. Optimized for printers.
++ A simple HTML resume template, well displayed on smart phones and PC under various resolutions. Optimized for printers.
 
 
 **Read the blog post**
 
-+ http://forcefront.com/2012/html-resume-framework/
++ http://forcefront.com/2012/html-resume-template/
 
 
 **Try out the demo**
