@@ -13,4 +13,4 @@ HTML Resume Template
 
 **Try out the demo**
 
-+ http://myst729.github.com/Resume
++ http://myst729.github.io/Resume/
