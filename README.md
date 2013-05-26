@@ -8,7 +8,7 @@ HTML Resume Template
 
 **Read the blog post**
 
-+ http://forcefront.com/2012/html-resume-template/
++ http://forcefront.com/2013/html-resume-template/
 
 
 **Try out the demo**
