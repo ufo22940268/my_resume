@@ -28,7 +28,7 @@ var Resume = function(window, document) {
         var sect = document.getElementsByTagName('section');
         var nav = document.createElement('nav');
         var ul = document.createElement('ul');
-        Array.prototype.forEach.call(sect, function(s, i) { 
+        Array.prototype.forEach.call(sect, function(s, i) {
             ul.innerHTML += '<li><a href="#' + s.id + '">' + s.querySelector('h2').innerHTML + '</a></li>';
             s.addEventListener('click', function(e) {
                 dest = s.offsetTop; 
