@@ -62,7 +62,7 @@
                 "startDate": "2013,8,14",
                 "endDate": "2013,12,1",
                 "headline": "美食行",
-                "text": "做为Python工程师身份入职。</br> 进入公司之后为公司开发了<a href=http://apk.gfan.com/Product/App640583.html>景点特价门票</a>的服务器端，实现了公司第一次从产品上地盈利。</br> 接下来对公司基于php的<a href=http://admin.meishixing.com/login?ref=>后台管理系统</a>进行了二次开发。<p> 在我开发后台系统的过程中，实现了服务器的自动上线的功能。并且引入了测试驱动开发的技术，在代码上线之前和上线之后都会进行单元测试，保证服务器运行的正常。 ",
+                "text": "做为Python工程师身份入职。</br> 进入公司之后为公司开发了<a href=http://apk.gfan.com/Product/App640583.html>景点特价门票</a>的服务器端，实现了公司第一次从产品上地盈利。</br> 接下来对公司基于php的后台管理系统进行了二次开发。<p> 在我开发后台系统的过程中，实现了服务器的自动上线的功能。并且引入了测试驱动开发的技术，在代码上线之前和上线之后都会进行单元测试，保证服务器运行的正常。 ",
                 "tag": "创业公司 Python php web前端 android",
                 "asset": {
                     "media": "http://cdn2.image.apk.gfan.com/asdf/PImages/2013/12/3/640583_229994992-af92-4e84-ad22-520cfc329c6d.jpg",
