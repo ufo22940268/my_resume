@@ -1,0 +1,129 @@
+{
+    "timeline":
+    {
+        "headline":"我的工作经理",
+        "type":"default",
+        "startDate":"2011,1,26",
+        "date": [
+            {
+                "startDate": "2011,2,10",
+                "endDate": "2013,2,10",
+                "headline": "潮流网络",
+                "text": "负责开发公司最新产品GXP2200，这款产品是基于android系统进行二次开发，使android系统能够具备多方视频会议，ip语音通话等功能。在这之中，我参加了从预研到开发，到后期根据客户的需求进行定制的全部过程。主要负责里面的框架层ui相关的定制，通讯录，联系人数据库接口以及通话记录模块。除此之外我还对输入法，setting，网络相关的模块进行修改。 ",
+                "tag": "外资企业 android-porting",
+                "asset": {
+                    "media": "http://www.grandstream.com/products/gxp_series/gxp2200/images/gxp2200_slider.jpg",
+                    "credit":"",
+                    "caption":""
+
+                }
+            },
+
+            {
+                "startDate": "2012,5,5",
+                "endDate": "2012,12,7",
+                "headline": "算法",
+                "text": "那段时间很痴迷acm，然后每天不停地到<a href=http://codeforces.com/>codeforce</a>， <a href=http://acm.hdu.edu.cn/>hdoj</a>上刷题，然后看了好几次《算法导论》虽然到现在都好多搞不怎么明白。",
+                "tag": "闲着蛋疼",
+                "asset": {
+                    "media": "http://192.241.196.189:8000/Desktop/acm.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate": "2012,10,5",
+                "endDate": "2013,1,7",
+                "headline": "OpenGL小试",
+                "text": "突然想学学怎么做游戏，然后先是在Mac上用OpenGL 1.0开发了一个简单的迷宫游戏。然后又在android上用OpenGL ES 2.0开发了一个类似于<a href=http://v.youku.com/v_show/id_XMzk2NTE3NDA=.html>特训99</a>， 唯一不一样的就是用了手机的陀螺仪来控制方向。<p><a href=https://github.com/ufo22940268/Android_Texun99.git>代码</a>",
+                "tag": "闲着蛋疼",
+                "asset": {
+                    "media": "",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate": "2013,3,14",
+                "endDate": "2013,8,14",
+                "headline": "恩牛网络",
+                "text": "在这家公司里面，先是开发了<a href=https://play.google.com/store/apps/details?id=com.zhangdan.preferential>51信用卡优惠</a>和<a href=http://apk.gfan.com/Product/App269458.html>51信用卡管家</a>两个app，后者的用户量已经达到了1000w。<p> 接下来为公司开发了两个后台的管理系统，一个抓取信息的系统，一个选图的系统。这些系统从前端和后端都由我一个人完成。前端采用了twitterbootstrap， 后端服务器用了tornado实现。抓取系统在我离职几个月后还每天不停地抓取新地信息。 ",
+                "tag": "创业公司 Android Python web前端 mysql",
+                "asset": {
+                    "media": "http://cdn2.image.apk.gfan.com/asdf/PImages/2013/11/29/269458_26b0f27cd-62d7-4c2a-9dfb-b96adb832a43.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate": "2013,8,14",
+                "endDate": "2013,12,1",
+                "headline": "美食行",
+                "text": "做为Python工程师身份入职。</br> 进入公司之后为公司开发了<a href=http://apk.gfan.com/Product/App640583.html>景点特价门票</a>的服务器端，实现了公司第一次从产品上地盈利。</br> 接下来对公司基于php的<a href=http://admin.meishixing.com/login?ref=>后台管理系统</a>进行了二次开发。<p> 在我开发后台系统的过程中，实现了服务器的自动上线的功能。并且引入了测试驱动开发的技术，在代码上线之前和上线之后都会进行单元测试，保证服务器运行的正常。 ",
+                "tag": "创业公司 Python php web前端 android",
+                "asset": {
+                    "media": "http://cdn2.image.apk.gfan.com/asdf/PImages/2013/12/3/640583_229994992-af92-4e84-ad22-520cfc329c6d.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate": "2013,11,14",
+                "endDate": "2013,12,1",
+                "headline": "一手管",
+                "text": "我的第一个外包项目。项目已经完成，ios版本已经上线，可以通过appstore搜到。</br> 这是一个仓库管理系统，用来给企业记录每天仓库的情况。其中实现了条码扫描导入商品，视频监控等功能。</br> 我负责了这个项目的<a href=https://github.com/ufo22940268/Python-RMS>服务器端</a>和<a href=https://github.com/ufo22940268/Android-RMS>android端</a>. 服务器端采用了eve框架来完成。 ",
+                "tag": "外包 Python Android eve mongodb",
+                "asset": {
+                    "media": "http://192.241.196.189:8000/Desktop/rms.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate": "2013,12,1",
+                "endDate": "2013,12,26",
+                "headline": "爱搭车",
+                "text": "辞职之后的第二个外包项目。</br> api服务器端采用了flask+gunicorn+nginx搭建，同时用flask-restful项目来验证请求。</br> 因为项目需要提供即时通讯的功能，所以还用openfire搭了一个xmpp服务器。客户端的通讯模块则基于yaxim的基础上进行开发。<p> <a href=https://github.com/ufo22940268/one-server>服务器代码</a></br> <a href=https://github.com/ufo22940268/one-android>客户端代码</a>",
+                "tag": "外包 Python Android xmpp mongodb",
+                "asset": {
+                    "media": "http://192.241.196.189:8000/Desktop/one.png",
+                    "credit":"",
+                    "caption":""
+                }
+            }
+        ],
+        "era": [
+            {
+                "startDate": "2013,12,1",
+                "endDate": "2013,12,1",
+                "headline": "辞职",
+                "text": "",
+                "tag": "",
+                "type": "era",
+                "asset": {
+                    "media": "",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate": "2011,2,10",
+                "endDate": "2011,2,10",
+                "headline": "开始实习了",
+                "text": "",
+                "tag": "",
+                "type": "era",
+                "asset": {
+                    "media": "http://images.wikia.com/thecompletelypointless/images/0/0a/ASDF_Movie!.png",
+                    "credit":"",
+                    "caption":""
+                }
+            }
+        ]
+    }
+}
