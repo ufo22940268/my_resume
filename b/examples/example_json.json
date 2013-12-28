@@ -23,7 +23,7 @@
                 "startDate": "2012,5,5",
                 "endDate": "2012,12,7",
                 "headline": "算法",
-                "text": "那段时间很痴迷acm，然后每天不停地到<a href=http://codeforces.com/>codeforce</a>， <a href=http://acm.hdu.edu.cn/>hdoj</a>上刷题，然后看了好几次《算法导论》,虽然到现在都好多搞不怎么明白。",
+                "text": "那段时间很痴迷acm，然后每天不停地到<a href=http://codeforces.com/>codeforce</a>， <a href=http://acm.hdu.edu.cn/>hdoj</a>上刷题。",
                 "tag": "闲着蛋疼",
                 "asset": {
                     "media": "http://192.241.196.189/Desktop/acm.png",
@@ -35,8 +35,8 @@
             {
                 "startDate": "2012,10,5",
                 "endDate": "2013,1,7",
-                "headline": "OpenGL小试",
-                "text": "突然想学学怎么做游戏，然后先是在Mac上用OpenGL 1.0开发了一个简单的迷宫游戏。然后又在android上用OpenGL ES 2.0开发了一个类似于<a href=http://v.youku.com/v_show/id_XMzk2NTE3NDA=.html>特训99</a>， 唯一不一样的就是用了手机的陀螺仪来控制方向。<p><a href=https://github.com/ufo22940268/Android_Texun99.git>代码</a>",
+                "headline": "OpenGL",
+                "text": "突然想学学怎么做游戏，然后先是在Mac上用OpenGL 1.0开发了一个简单的迷宫游戏。然后又在android上用OpenGL ES 2.0开发了一个类似于特训99的<a href=https://github.com/ufo22940268/Android_Texun99.git>游戏</a>， 唯一不一样的就是用了手机的陀螺仪来控制方向。",
                 "tag": "闲着蛋疼",
                 "asset": {
                     "media": "",
