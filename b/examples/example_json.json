@@ -70,33 +70,6 @@
                     "caption":""
                 }
             }
-
-            // {
-            //     "startDate": "2013,11,14",
-            //     "endDate": "2013,12,1",
-            //     "headline": "一手管",
-            //     "text": "我的第一个外包项目。项目已经完成，ios版本已经上线，可以通过appstore搜到。</br> 这是一个仓库管理系统，用来给企业记录每天仓库的情况。其中实现了条码扫描导入商品，视频监控等功能。</br> 我负责了这个项目的<a href=https://github.com/ufo22940268/Python-RMS>服务器端</a>和<a href=https://github.com/ufo22940268/Android-RMS>android端</a>. 服务器端采用了eve框架来完成。 ",
-            //     "tag": "外包 Python Android eve mongodb",
-            //     "asset": {
-            //         "media": "http://192.241.196.189/Desktop/rms.png",
-            //         "credit":"",
-            //         "caption":""
-            //     }
-            // },
-
-            // {
-            //     "startDate": "2013,12,1",
-            //     "endDate": "2013,12,26",
-            //     "headline": "爱搭车",
-            //     "text": "辞职之后的第二个外包项目。</br> api服务器端采用了flask+gunicorn+nginx搭建，同时用flask-restful项目来验证请求。</br> 因为项目需要提供即时通讯的功能，所以还用openfire搭了一个xmpp服务器。客户端的通讯模块则基于yaxim的基础上进行开发。",
-            //     "tag": "外包 Python Android xmpp mongodb",
-            //     "asset": {
-            //         "media": "http://192.241.196.189/Desktop/one.png",
-            //         "credit":"",
-            //         "caption":""
-            //     }
-            // }
-            
         ],
         "era": [
             {
