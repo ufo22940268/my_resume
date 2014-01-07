@@ -180,6 +180,10 @@ time {
     font-weight: normal;
 }
 
+.range {
+    width: 180px !important;
+}
+
 footer {
     width: 800px;
     margin: 40px auto 20px;
